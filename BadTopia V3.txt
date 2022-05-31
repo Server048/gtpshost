@@ -1,2 +1,2 @@
-20.230.160.37 growtopia1.com
-20.230.160.37 growtopia2.com
+20.110.72.13 growtopia1.com
+20.110.72.13 growtopia2.com
